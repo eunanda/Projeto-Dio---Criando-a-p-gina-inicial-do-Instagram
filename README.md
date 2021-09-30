@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="https://tecnoblog.net/wp-content/uploads/2020/04/como-bloquear-netflix-1.jpg">
+    <img alt="License" src="https://github.com/eunanda/Projeto-Dio---Criando-a-p-gina-inicial-do-Instagram/blob/main/img/capa.png?raw=true">
   </a>
 </p>
 
